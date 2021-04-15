@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef1370b1-e895-4236-8b86-71586413fc68" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p7L82f4PDXDq0TBdUupMw0lkXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yao\Desktop\college\edu_site\static" />
+      <recent name="C:\Users\Yao\Desktop\college\edu_site\assets\img" />
+      <recent name="C:\Users\Yao\Desktop\college\edu_site\pages" />
+      <recent name="C:\Users\Yao\Desktop\college\edu_site\pages\ucenter" />
+      <recent name="C:\Users\Yao\Desktop\college\edu_site\pages\course" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yao\Desktop\college\guli_site\assets\img" />
+      <recent name="C:\Users\Yao\Desktop\college\guli_site\assets\img\pic" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef1370b1-e895-4236-8b86-71586413fc68" name="Default Changelist" comment="" />
+      <created>1614529018844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614529018844</updated>
+      <workItem from="1614529019972" duration="1451000" />
+      <workItem from="1614604684170" duration="822000" />
+      <workItem from="1615641445288" duration="1380000" />
+      <workItem from="1615646571513" duration="420000" />
+      <workItem from="1617604046929" duration="10006000" />
+      <workItem from="1617728146811" duration="31396000" />
+      <workItem from="1618235125258" duration="27994000" />
+      <workItem from="1618389704240" duration="3393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1241" height="181" key="GridCell.Tab.0.bottom" timestamp="1614530493756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1241" height="181" key="GridCell.Tab.0.bottom/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1614530493756" />
+    <state width="1241" height="181" key="GridCell.Tab.0.center" timestamp="1614530493755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1241" height="181" key="GridCell.Tab.0.center/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1614530493755" />
+    <state width="1241" height="181" key="GridCell.Tab.0.left" timestamp="1614530493755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1241" height="181" key="GridCell.Tab.0.left/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1614530493755" />
+    <state width="1241" height="181" key="GridCell.Tab.0.right" timestamp="1614530493755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1241" height="181" key="GridCell.Tab.0.right/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1614530493755" />
+    <state x="589" y="214" width="741" height="650" key="find.popup" timestamp="1618335596003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="589" y="214" width="741" height="650" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1618335596003" />
+    <state x="589" y="214" width="741" height="650" key="find.popup/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1615646863917" />
+    <state x="553" y="58" width="840" height="1034" key="search.everywhere.popup" timestamp="1618335588324">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="58" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1618335588324" />
+    <state x="542" y="49" width="840" height="1034" key="search.everywhere.popup/568.2160.1280.800/0.0.1920.1080@0.0.1920.1080" timestamp="1614529335665" />
+  </component>
+</project>
