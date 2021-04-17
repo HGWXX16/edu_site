@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1370b1-e895-4236-8b86-71586413fc68" name="Default Changelist" comment="" />
+    <list default="true" id="ef1370b1-e895-4236-8b86-71586413fc68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p7L82f4PDXDq0TBdUupMw0lkXR" />
   <component name="ProjectViewState">
@@ -20,6 +25,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
     <property name="vuejs.nuxt.types-notification-shown" value="true" />
   </component>
   <component name="RecentsManager">
@@ -51,6 +57,9 @@
       <workItem from="1617728146811" duration="31396000" />
       <workItem from="1618235125258" duration="27994000" />
       <workItem from="1618389704240" duration="3393000" />
+      <workItem from="1618460192541" duration="1088000" />
+      <workItem from="1618463573592" duration="3440000" />
+      <workItem from="1618559590096" duration="2918000" />
     </task>
     <servers />
   </component>
@@ -58,6 +67,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="638" y="264" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1618557172935">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="638" y="264" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618557172935" />
     <state width="1241" height="181" key="GridCell.Tab.0.bottom" timestamp="1614530493756">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
